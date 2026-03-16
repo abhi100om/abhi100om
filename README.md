@@ -2,8 +2,7 @@
 
 ### AI • Blockchain • Cloud-Native • Real-Time Systems | Developer • Innovator • Tech Explorer
 
-Innovative developer passionate about AI, blockchain, and cloud-native solutions. Experienced in building real-time chat apps with LLMs, secure voting platforms, and gesture-based tools. Skilled in Python, C++, WebSockets, Docker, Flask, Solidity, and AWS. Always exploring new technologies and open to impactful collaborations.
-
+Machine Learning Engineer specializing in Generative AI, LLM systems, and scalable ML backends. Experienced in building end-to-end machine learning pipelines, deploying production-grade ML APIs, and developing real-time AI applications. Strong expertise in Python, PyTorch, Transformers, and distributed inference systems, with hands-on experience in LLM evaluation, prompt engineering, and applied AI system optimization.
 - ✉️ You can contact me at [abhishekcena22031@gmail.com](mailto:abhishekcena22031@gmail.com)  
 - 🧠 Currently learning: **Generative AI**  
 - ⚡ Passionate about: **AI, Cloud, and Blockchain**
